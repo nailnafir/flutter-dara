@@ -1,11 +1,11 @@
 part of 'utilities.dart';
 
 abstract class ColorThemeUtilities {
-  static Color bgLight = const Color(0xFFF5F5F5);
-  static Color bgDark = const Color(0xFF251500);
-  static Color primaryColor = const Color(0xFFFFCE81);
-  static Color secondaryColor = const Color(0xFFFAB266);
-  static Color tertiaryColor = const Color(0xFFFDE3C8);
+  static Color backgroundLight = const Color(0xFFF5F5F5);
+  static Color backgroundDark = const Color(0xFF251500);
+  static Color primaryColor = const Color(0xFF2B3499);
+  static Color secondaryColor = const Color(0xFFFF6C22);
+  static Color tertiaryColor = const Color(0xFFFFD099);
   static Color greenColor = const Color(0xFF08AF80);
   static Color blueColor = const Color(0xFF01ABE6);
   static Color redColor = const Color(0xFFF65D5A);
